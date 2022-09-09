@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashwanth S</h1>
 <h3 align="center">Passionate Computer Science student with intuitive problem-solving skills.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash1th-s" alt="yash1th-s" /></a> </p>
-
 - 🔭 I’m currently working on **Django Framework**
 
 - 🌱 I’m currently learning **Blockchain and AWS**
