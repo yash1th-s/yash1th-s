@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Blockchain and AWS**
 
-- 💬 Ask me about **python, DSA, Java**
+- 💬 Ask me about **python, DSA and Java**
 
 - 👨‍💻 All of my projects are available at https://github.com/yash1th-s?tab=repositories
 
