@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Code%20And%20Creativity!&width=850&height=200)
+<p align='center">![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Code%20And%20Creativity!&width=850&height=200)</p>
 <h1 align="center">Hi 👋, I'm Yashwanth S</h1>
 <h3 align="center">Passionate Computer Science student with intuitive problem-solving skills</h3>
 
