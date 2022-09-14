@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Django Framework**
 
-- 🌱 I’m currently learning **Blockchain and AWS**
+- 🌱 I’m currently learning **Java and DSA**
 
 - 💬 Ask me about **Python, DSA and Java**
 
