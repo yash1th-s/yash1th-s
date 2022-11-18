@@ -36,7 +36,7 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash1th-s&&theme=dark&show_icons=true&locale=en" alt="yash1th-s" /> -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash1th-s&&theme=dark&show_icons=true&locale=en" alt="yash1th-s" />
 
-<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=yash1th-s&&theme=dark" alt="yash1th-s" />
+<p><img align="center" src="https://streak-stats.demolab.com/?user=yash1th-s&&theme=dark" alt="yash1th-s" />
 
 
 
