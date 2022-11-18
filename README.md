@@ -35,7 +35,7 @@
 <b>My GitHub Stats</b>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash1th-s&&theme=dark&show_icons=true&locale=en" alt="yash1th-s" /> -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash1th-s&&theme=dark&show_icons=true&locale=en" alt="yash1th-s" />
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=yash1th-s)(https://git.io/streak-stats)
 
 
 
