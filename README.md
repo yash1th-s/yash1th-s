@@ -34,9 +34,9 @@
 
 <b>My GitHub Stats</b>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash1th-s&&theme=dark&show_icons=true&locale=en" alt="yash1th-s" /> -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash1th-s&&theme=dark&show_icons=true&locale=en" alt="yash1th-s" />
-![GitHub Streak](https://streak-stats.demolab.com?user=yash1th-s&theme=dark)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash1th-s&&theme=dark&show_icons=true&locale=en" alt="yash1th-s" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=yash1th-s&theme=dark)](https://git.io/streak-stats)
 
 <a href="https://github.com/yash1th-s" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash1th-s&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
